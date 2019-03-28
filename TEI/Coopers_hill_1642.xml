@@ -7,7 +7,11 @@
       <fileDesc>
          <titleStmt>
             <title>Coopers Hill (1642)</title>
-            <author>Tiago Sousa Garcia</author>
+            <author>John Denam</author>
+            <respStmt>
+               <resp>Encoder</resp>
+               <name>Tiago Sousa Garcia</name>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <p>Coopers Hill SDE</p>
@@ -23,12 +27,22 @@
    </teiHeader>
    <text>
       <front>
-         <pb xml:id="A1r"/>
-         <head type="title">COOPERS HILL.</head>
-         <head type="subtitle">A Poeme</head>
-         <docImprint>London Printed for <hi rend="italic">Tho. Walkley,</hi>and are to be sold at
-            his shop at the Signe of the Flying Horse between York-house and Britaines Burse.
-            1642.</docImprint>
+         <div type="title">
+            <pb xml:id="A1r"/>
+            <head type="title" rend="center">COOPERS HILL.</head>
+            <head type="subtitle" rend="center">A Poeme</head>
+         </div>
+         <div type="printers-device">
+            <figure>
+               <p>Printer's device</p>
+               <graphic url="device.jpg"/>
+            </figure>
+         </div>
+         <div type="imprint">
+            <p rend="center">London Printed for <hi rend="italic">Tho. Walkley,</hi>and are to be
+               sold at his shop at the Signe of the Flying Horse between York-house and Britaines
+               Burse. 1642.</p>
+         </div>
          <pb xml:id="A1v"/>
       </front>
       <body>
