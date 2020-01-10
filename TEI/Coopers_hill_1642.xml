@@ -51,10 +51,15 @@
             <div type="verse">
                <pb xml:id="A2r"/>
                <l><hi rend="initial">S</hi>Ure we have Poets, that did never dreame</l>
-               <l>Upon Parnassus, nor did taste the streame</l>
-               <l>Of Helicon, and therefore I suppose</l>
+               <l>Upon Parnassus, nor did taste the streame <note type="gloss">Mount Parnassus, in
+                     Greece, the home of the Muses.</note></l>
+               <l>Of Helicon, and therefore I suppose <note type="gloss">Mount Helicon, in Greece,
+                     where two springs sacred to the Muses were located, the Aganippe and the
+                     Hippocrene. The waters of the Hippocrene were supposed to bring poetic
+                     inspiration.</note></l>
                <l>Those made not Poets, but the Poets those.</l>
-               <l>And as Courts make not Kings, but Kings the Court,</l>
+               <l>And as Courts make not Kings, but Kings the Court, <note type="gloss">Possibly a
+                     topical allusion to the 'High Court of Parliament'</note></l>
                <l>So where the Muses and their Troopes resort,</l>
                <l>Parnassus stands, if I can be to thee,</l>
                <l>A Poet, thou Parnassus art to mee.</l>
@@ -64,15 +69,18 @@
                <l>More boundlesse in my fancy then my eye,</l>
                <pb xml:id="A2v"/>
                <l>Exalted to this height, I first looke downe</l>
-               <l>On Pauls, as men from thence upon the towne.</l>
-               <note type="identification" place="margin"><hi rend="italic">Paules</hi>. Master
-                  Waller.</note>
+               <l>On Pauls, as men from thence upon the towne. <note type="gloss">Old St. Paul's
+                     Cathedral, that burned down in the Great Fire of London (1666).</note></l>
+               <note type="side-note" place="margin"><hi rend="italic">Paules</hi>. Master
+                     Waller.<note type="gloss">Cf. Edmund Waller's 'Upon His Majesties repairing of
+                     Pauls'</note></note>
                <l><hi rend="italic">Pauls</hi> the late Theme of such a Mush, whose flight</l>
                <l>Hath bravely reacht and soard above thy height:</l>
                <l>Now shalt thou stand, though Time, or Sword,or Fire,</l>
-               <l>Or Zeale(more fierce then they) thy fall conspire,</l>
+               <l>Or Zeale(more fierce then they) thy fall conspire,<note type="gloss">Specifically
+                     Puritan zeal, that rebelled against the trappings of old religion.</note></l>
                <l>Secure, while thee the best of Poets sings,</l>
-               <l>Preserv'd from ruine by the best of Kings.</l>
+               <l>Preserv'd from ruine by the best of Kings.<note type="gloss">Charles I.</note></l>
                <l>As those who rais'd in body,or in thought</l>
                <l>Above the Earth,or the Ayres middle Vault,</l>
                <l>Behold how winds, and stormes,and Meteors grow,</l>
@@ -80,7 +88,7 @@
                <l>And see the Thunder form'd,before it teare</l>
                <l>The ayre,secure from danger and from feare,</l>
                <l>So rais'd above the tumult and the crowd</l>
-               <note type="identification" place="margin">London.</note>
+               <note type="side-note" place="margin">London.</note>
                <l>I see the City in a thicker cloud</l>
                <l>Of businesse, then of smoake, where men like Ants</l>
                <l>Toyle to prevent imaginarie wants;</l>
@@ -93,19 +101,23 @@
                <l>Some to undoe, and some to be undone:</l>
                <l>While Luxurie,and wealth,like Warre and Peace,</l>
                <l>Are each the others ruine,and increase,</l>
-               <l>As Rivers lost in Seasfome secret veine</l>
-               <l>Thence reconveighs,t here to be lost againe.</l>
-               <l>Some study plots,,and some those plots t'undoe,</l>
+               <l>As Rivers lost in Seas some secret veine</l>
+               <l>Thence reconveighs, there to be lost againe.</l>
+               <l>Some study plots, and some those plots t'undoe,</l>
                <l>Others to make'em,and undoe'em too,</l>
-               <l>False to their hopes, afriad to be secure</l>
-               <l>Those mischiefes onely which they make,endure,</l>
+               <l>False to their hopes, affraid to be secure</l>
+               <l>Those mischiefes onely which they make, endure,</l>
                <l>Blinded with light,and sicke of being well,</l>
-               <l>In tumults seeke their peace,their heaven in hell.</l>
-               <l>Oh happinesse of sweet retir'd content !</l>
+               <l>In tumults seeke their peace, their heaven in hell.</l>
+               <l>Oh happinesse of sweet retir'd content!</l>
                <l>To be at once secure,and innocent.</l>
                <l><hi rend="italic">Windsor</hi> the next ( where <hi rend="italic">Mars</hi> with
-                     <hi rend="italic">Venus</hi> dwels,</l>
-               <note type="identification" place="margin">Windsor.</note>
+                     <hi rend="italic">Venus</hi> dwels, <note type="gloss">Partly symbols of
+                     strength and beauty, as Windsor castle, partly symbols for Charles I and
+                     Henrietta Maria, his queen consort. It was common to represent reigning
+                     monarchs and their consorts as Mars and Venus in Renaissance
+                  painting.</note></l>
+               <note type="side-note" place="margin">Windsor.</note>
                <l>Beauty with strength) above the valley swels</l>
                <l>Into my eye, as the late married Dame,</l>
                <l>(Who proud,yet seems to make that pride her shame)</l>
@@ -114,11 +126,12 @@
                <l>Her wishes past,and now her hopes to come:</l>
                <l>With such an easie,and unforc'd Ascent,</l>
                <l><hi rend="italic">Windsor</hi> her gentle bosome doth present ;</l>
-               <l>Where nostupendiou Cliffe,no threatening heights</l>
+               <l>Where no stupendious Cliffe,no threatening heights</l>
                <l>Accesse deny,no horrid steepe affrigts,</l>
                <l>But such a Rise, as doth at once invite</l>
                <l>A pleasure,and a reverence from the fight.</l>
-               <l>Thy Masters Embleme,in whose face I saw</l>
+               <l>Thy Masters Embleme,in whose face I saw <note type="gloss">The master is Charles
+                     I, the castle his emblem.</note></l>
                <l>A friend-like sweetnesse, and a King-like aw,</l>
                <l>Where Majestie and love so mixt appeare,</l>
                <l>Both gently kinde,both royally severe.</l>
@@ -134,19 +147,30 @@
                <l>For none commends his judgement, that doth chuse</l>
                <l>That which a blind man onely could refuse;</l>
                <l>Such are the Towers which th'hoary Temples grac'd</l>
-               <l>Of <hi rend="italic">Cibelo</hi>, when all her heavenly race</l>
-               <note type="identification" place="margin">The Mo-ther of the gods.</note>
+               <l>Of <hi rend="italic">Cibelo</hi>, when all her heavenly race<note type="gloss">The
+                     goddess Cybele, Phrygian mother of the gods, later adopted into Greek
+                     mythology.</note></l>
+               <note type="side-note" place="margin">The Mo-ther of the gods.</note>
                <l>Doe homage to her,yet she canot boast</l>
                <l>Amongst that Numerous, and Celestiall hoast</l>
                <l>More <hi rend="italic">Heroes</hi>,than can <hi rend="italic">Windsor</hi>,nor
                   doth Fames</l>
                <l>Immortall booke record more noble Names.</l>
                <l>Not to looke backe so farre, to whom this Ile</l>
-               <l>Must owe the glory ofso brave a Pile,</l>
-               <l>Whether to <hi rend="italic">Casar</hi>,<hi rend="italic">Albanact</hi>,or <hi
-                     rend="italic">Brute</hi>,</l>
-               <l>The British <hi rend="italic">Arthur</hi>,or the Danish <hi rend="italic"
-                     >Knute</hi>;</l>
+               <l>Must owe the glory of so brave a Pile,</l>
+               <l>Whether to <hi rend="italic">Caesar<note type="gloss">Julius Caesar, who first
+                        invaded Britain.</note></hi>,<hi rend="italic">Albanact<note type="gloss"
+                        >Albanactus, mythical founding king of the kingdom of Albania, roughly
+                        modern-day Scotland</note></hi>,or <hi rend="italic">Brute<note type="gloss"
+                        >Brutus of Troy, the legendary founder and first king of
+                     Britain.</note></hi>,</l>
+               <l>The British <hi rend="italic">Arthur<note type="gloss">King Arthur, legendary
+                        Celtic king who fought against the Saxon invasion of Britain; central
+                        character in the medieval romances that make up the Matter of
+                        Britain.</note></hi>,or the Danish <hi rend="italic">Knute<note type="gloss"
+                        >King Canute, Danish king of Denmark, England and Norway (the North Sea
+                        Empire). Famously portrayed in an anecdote in which he demonstrates the
+                        futility of 'trying to stop the tide.'</note></hi>;</l>
                <l>(Though this of old no lesse contest did move,</l>
                <l>Then when for <hi rend="italic">Homers</hi> birth seaven Cities strove)</l>
                <l>(Like him in birth,thoug shouldst be like in Fame,</l>
@@ -154,33 +178,44 @@
                <l>But whosoere it was,Nature designd</l>
                <l>First a brave place,and then as brave a minde.</l>
                <l>Nor to recount those severall Kings,to whom</l>
-               <l>It gave a Cradle, orto whom a Tombe,</l>
+               <l>It gave a Cradle, or to whom a Tombe,</l>
                <pb xml:id="A4v"/>
                <l>But thee (great <hi rend="italic">Edward</hi>)and thy greater sonne,</l>
-               <note type="identification" place="margin">Edward the third, and the blacke
-                  Prince.</note>
-               <l>He that the Lyllies wore,and he that wonne.</l>
-               <l>And thy <hi rend="italic">Bellona</hi> who deserves her share</l>
-               <l>In all thy glories, Of that royall paire</l>
-               <note type="identification" place="margin">Queene Philip.</note>
+               <note type="side-note" place="margin">Edward the third, and the blacke Prince.</note>
+               <l>He that the Lyllies wore<note type="gloss">The fleurs-de-lis, that is, the French
+                     crown. Edward III was the first English king to claim the French
+                  throne.</note>,and he that wonne.<note type="gloss">Edward the Black Prince had a
+                     famous victory at Poitiers in 1356 in which he captured his father's rival,
+                     King John of France.</note></l>
+               <l>And thy <hi rend="italic">Bellona<note type="gloss">Roman goddess of
+                     war</note></hi> who deserves her share</l>
+               <l>In all thy glories, Of that royall paire<note type="gloss">At one time, Edward III
+                     held captive the kings of France and Scotland simultaneously.</note></l>
+               <note type="side-note" place="margin">Queene Philip.<note type="gloss">Phillipa of
+                     Hainault, Queen consort of Edward III.</note></note>
                <l>Which waited on thy triumph,she brought one,</l>
-               <note type="identification" place="margin">The Kings of France and Scot-land.</note>
-               <l>Thy sonne the otherbrought,and she that sonne</l>
+               <note type="side-note" place="margin">The Kings of France and Scot-land.</note>
+               <l>Thy sonne the other brought,and she that sonne</l>
                <l>Nor of lesse hopes could her great off-spring prove,</l>
                <l>A Royall Eagle cannot breed a Dove.</l>
                <l>Then didst thou found that Order : whether love</l>
-               <note type="identification" place="margin">The Gar-ter.</note>
+               <note type="side-note" place="margin">The Gar-ter.</note>
                <l>Or victory thy Royall thoughts did move,</l>
                <l>Each was a Noble cause,nor was it lesse</l>
                <l>I'th institution, then the great successe,</l>
                <l>Whilst every part conspires to give it grace,</l>
-               <l>The King,the Cause, the Patron,and the Place,</l>
+               <l>The King,the Cause, the Patron,and the Place,<note type="gloss">St. George's
+                     Chapel in Windsor Castle is the chapel of the Order of the Garter.</note></l>
                <l>Which forraigne Kings,and Emperors esteeme</l>
-               <l>The second honour to their Diademe.</l>
+               <l>The second honour to their Diademe.<note type="gloss">Foreign kings and princes,
+                     particularly those who were connected to the English royal family through
+                     marriage or alliance, were often made knights of the Garter.</note></l>
                <l>Had thy great destiny but given thee skill</l>
                <l>To know as well,as Power to act her will,</l>
                <l>That from those Kings,who then thy captives were,</l>
-               <l>In after-times should spring a Royall paire,</l>
+               <l>In after-times should spring a Royall paire,<note type="gloss">Charles I,
+                     descendent of the Scottish Stuarts, and Henrietta Maria, daughter of Henri IV
+                     of France.</note></l>
                <pb xml:id="B1r"/>
                <l>Who should possesse all that thy mighty power,</l>
                <l>Or thy desires more mighty did devoure;</l>
@@ -194,15 +229,16 @@
                <l>Thine and the Christian name,and made them blest</l>
                <l>To serve thee,while that losse this gaine would bring,</l>
                <l>Christ for their God,and <hi rend="italic">Edward</hi> for their King;</l>
-               <note type="identification" place="margin">St.George</note>
+               <note type="side-note" place="margin">St.George</note>
                <l>When thou that Saint thy Patron didst designe,</l>
                <l>In whom the Martyr,and the Souldier joyne;</l>
                <l>And when thou didst within the Azure round,</l>
                <l>(Who evill thinks may evill him confound )</l>
-               <l>The English Armes encircle,thou didst seeme</l>
+               <l>The English Armes encircle,thou didst seeme<note type="gloss">A description of the
+                     Garter badge.</note></l>
                <l>But to foretell, and Prophecie of him,</l>
                <l>Who has within that Azure round confin'd</l>
-               <l>These Realmes,whichNature for their bound design'd.</l>
+               <l>These Realmes,which Nature for their bound design'd.</l>
                <pb xml:id="B1v"/>
                <l>That bound which to the worlds extreamest ends,</l>
                <l>Endlesse her selfe,her liquid armes extends ;</l>
@@ -210,19 +246,20 @@
                <l>Better exprest then in the liveliest paint,</l>
                <l>That fortitude which made him famous here,</l>
                <l>That heavenly piety,which Saints him there,</l>
-               <l>Who when this Order he forsakes,may he</l>
+               <l>Who when this Order he forsakes, may he</l>
                <l>Companion of that sacred Order be.</l>
-               <l>Here could I fix my wonder,butour eyes,</l>
+               <l>Here could I fix my wonder,but our eyes,</l>
                <l>Nice as our tastes,affect varieties;</l>
                <l>And though one please him most,the hungry guest</l>
                <l>Tasts every dish,and runs through all the feast ;</l>
                <l>So having tasted <hi rend="italic">Windsor</hi>,casting round</l>
                <l>My wandring eye,an emulous Hill doth bound,</l>
-               <note type="identification" place="margin">St. Annes Hill.</note>
-               <l>My more contracted sight,whose topoflate</l>
-               <l>A Chappel crown'd,till in the common fate,</l>
-               <l>The neighbouring Abbey fell, ( may no such storme</l>
-               <note type="identification" place="margin">Chertsey Abbey.</note>
+               <note type="side-note" place="margin">St. Annes Hill.</note>
+               <l>My more contracted sight,whose top of late</l>
+               <l>A Chappel crown'd, till in the common fate,</l>
+               <l>The neighbouring Abbey fell, <note type="gloss">The dissolution of the
+                     monasteries, ordered by Henry VIII.</note> ( may no such storme</l>
+               <note type="side-note" place="margin">Chertsey Abbey.</note>
                <l>Fall on our times, where ruine must reforme )</l>
                <l>Tell me ( my Muse ) what monstrous dire Offence?</l>
                <l>What crime could any Christian King incense</l>
@@ -239,10 +276,15 @@
                <l>Considered well,for none commits a crime</l>
                <l>Appearing such,but as 'tis understood,</l>
                <l>A reall,or at least a seeming good.</l>
-               <l>While for the Churchhis learned Pen disputes</l>
+               <l>While for the Church his learned Pen disputes<note type="gloss">A reference to
+                     Henry VIII's treaty 'Assertio Septem Sacramentorum adversus Martinum Lutherum'
+                     against the Lutheran reformation, which earned him the title of 'Defender of
+                     the Faith' given to him by Pope Leo X, before Henry himself left the Roman
+                     Church and created the Anglican Church.</note></l>
                <l>His much more learned sword his Pen confutes.</l>
                <l>Thus to the Ages past he makes amends,</l>
-               <l>Their charity destroyes,their faith defends.</l>
+               <l>Their charity destroyes,their faith defends.<note type="gloss">Allusion to Henry's
+                     title as 'Defender of the Faith.'</note></l>
                <l>Then did Religion in a lazie Cell,</l>
                <l>In emptie,ayrie contemplations dwell ,</l>
                <l>And like the block unmoved lay,but ours</l>
@@ -253,23 +295,27 @@
                <l>Could we not wake from that Lethargick dreame,</l>
                <l>But to be restlesse in a worse extreame?</l>
                <l>And for that Lethargy was there no cure,</l>
-               <l>But to be cast into a Calenture?</l>
+               <l>But to be cast into a Calenture?<note type="gloss">Feverish delirium.</note></l>
                <l>Can knowledge have no bound,but must advance</l>
                <l>So farre,to make us wish for ignorance?</l>
                <l>And rather in the darke to grope our way,</l>
-               <l>Then ledby a false guide to erre by day?</l>
+               <l>Then led by a false guide to erre by day?</l>
                <l>Parting from thence 'twixt anger,shame,and feare</l>
                <l>Those for what's past,and this for what's too neare:</l>
                <l>My eye discending from the Hill, survayes</l>
                <l>Where Thames amongst the wanton valleyes strayes</l>
-               <note type="identification" place="margin">Thames.</note>
+               <note type="side-note" place="margin">Thames.</note>
                <l>Thames the most loud of all the Oceans sonnes,</l>
                <l>By his old fire to his imbraces runnes,</l>
                <l>Hasting to pay his tribute to the Sea,</l>
                <l>Like mortall life to meet Eternity,</l>
-               <l>And though his clearersand no golden veynes,</l>
-               <l><hi rend="italic">Tagus</hi>,and <hi rend="italic">Pactolus</hi> streames
-                  containe,</l>
+               <l>And though his clearer sand no golden veynes,</l>
+               <l>Like <hi rend="italic">Tagus<note type="gloss">River Tagus that flows through the
+                        Iberian Peninsula towards the Atlantic, meeting near Lisbon,
+                        Portugal.</note></hi>,and <hi rend="italic">Pactolus<note type="gloss">Now
+                        known as the river Sart Çayı, runs near the Aegean coast of Turkey. Both
+                        rivers were celebrated in antiquity for their golden sands.</note></hi>
+                  streames containe,</l>
                <pb xml:id="B3r"/>
                <l>His genuine,and less guilty wealth t'explore,</l>
                <l>Search not his bottome,but behold his shore;</l>
@@ -295,15 +341,19 @@
                <l>Findes wealth where 'tis,and gives it where it wants</l>
                <l>Cities in Desarts,woods in Cities plants,</l>
                <l>Rounds the whole Globe,and with his flying towers</l>
-               <l>Brings home to us,and makes both Indies ours</l>
+               <l>Brings home to us,and makes both Indies ours<note type="gloss">The 'west indies'
+                     (America) and India proper.</note></l>
                <l>So that to us no thing, no place is strange</l>
-               <l>Whilst thy faire bosome is the worlds Exchange :</l>
+               <l>Whilst thy faire bosome is the worlds Exchange:<note type="gloss">As in 'Royal
+                     Exchange,' i.e., a place of trade and wealth.</note></l>
                <l>O could my verse freely and smoothly flow,</l>
                <l>As thy pure flood,heaven should no longer know</l>
-               <l>Her old <hi rend="italic">Eridanus</hi>, thy purer streams</l>
+               <l>Her old <hi rend="italic">Eridanus<note type="gloss">A classical name for the
+                        river Po, in the Italian Alps, but also a name for a constellation in the
+                        southern celestial hemisphere.</note></hi>, thy purer streams</l>
                <l>Should bathe the gods,and be the Poets Theame.</l>
                <l>Here Nature whether more intent to please</l>
-               <note type="identification" place="margin">The For-est.</note>
+               <note type="side-note" place="margin">The For-est.</note>
                <l>Us or her selfe with strange varieties,</l>
                <l>(For things of wonder more,no less delight</l>
                <l>To the wise makers, then beholders sight.</l>
@@ -322,7 +372,7 @@
                <l>Wonder from thence results,from thence delight,</l>
                <l>The streame is so transparent,pure, and cleare,</l>
                <l>That had the self-enamourd youthgaz'd here,</l>
-               <note type="identification" place="margin">Narcissus.</note>
+               <note type="side-note" place="margin">Narcissus.</note>
                <l>So fatally deceiv'd he had not beene,</l>
                <l>While he the bottome,not his face had seene.</l>
                <l>And such the roughnesse of the Hill, on which</l>
@@ -334,7 +384,7 @@
                <l>Their proud,and barren greatnesse must susteine :</l>
                <l>So lookes the Hill upon the streame,betweene</l>
                <l>There lies a spatious, and a fertile Greene,</l>
-               <note type="identification" place="margin">Egham Meade.</note>
+               <note type="side-note" place="margin">Egham Meade.</note>
                <l>Where from the woods,the <hi rend="italic">Dryades</hi> oftmeet</l>
                <l>The <hi rend="italic">Nayades</hi>,and with their nimble feet,</l>
                <pb xml:id="B4v"/>
@@ -405,7 +455,7 @@
                <l>The justnesse of an action from successe</l>
                <pb xml:id="C2r"/>
                <l>Here was that Charter seal'd, wherein the Crowne</l>
-               <note type="identification" place="margin">Magna Charta.</note>
+               <note type="side-note" place="margin">Magna Charta.</note>
                <l>All markes of Arbitrary power layes downe :</l>
                <l>Tyrant and Slave,those names of hate and feare,</l>
                <l>The happier style of King and Subject beare :</l>
