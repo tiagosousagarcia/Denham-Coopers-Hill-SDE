@@ -47,7 +47,13 @@
       </front>
       <body>
          <div type="poem">
-            <head type="title">Coopers Hill.</head>
+            <head type="title">Coopers Hill.<note type="gloss"><ref
+                     target="https://goo.gl/maps/YmAwtWgySQz8oFQF6">A small hill (c. 220 ft) in
+                     Egham, near Windsor</ref>. Coopers Hill overlooks Runnymeade, Windsor and the
+                  River Thames. Although relatively close to central London and across the river
+                  from Heathrow Airport, it is unlikely (though not entirely impossible) that any
+                  observer could actually spot the spire of St. Paul's Cathedral, as Denham
+                  claims.</note></head>
             <div type="verse">
                <pb xml:id="A2r"/>
                <l><hi rend="initial">S</hi>Ure we have Poets, that did never dreame</l>
@@ -355,132 +361,161 @@
                <l>Here Nature whether more intent to please</l>
                <note type="side-note" place="margin">The For-est.</note>
                <l>Us or her selfe with strange varieties,</l>
-               <l>(For things of wonder more,no less delight</l>
+               <l>(For things of wonder more, no less delight</l>
                <l>To the wise makers, then beholders sight.</l>
                <l>Though these delights from severall causes move,</l>
-               <l>For so our children thus our friends we love )</l>
+               <l>For so our children thus our friends we love)</l>
                <l>Wisely she knew the harmony of things</l>
                <l>Aswell, as that of sounds from discords springs,</l>
                <l>Such was the discord, which did first disperse</l>
-               <l>Forme,order,beauty through the universe ;</l>
+               <l>Forme, order, beauty through the universe ;</l>
                <pb xml:id="B4r"/>
-               <l>While drinesse, moysture;coldnesse heat resists ;</l>
-               <l>All that we have, and that we are subsists :</l>
+               <l>While drinesse, moysture; coldnesse heat resists; <note type="gloss">Dryness,
+                     Moisture, Coldness and Heat are the four 'roots' of all things according to
+                     Empedocles. The four elements (fire, water, air, and earth) are formed of pairs
+                     of these root qualities.</note></l>
+               <l>All that we have, and that we are subsists:</l>
                <l>While the steepe horrid roughnesse of the wood</l>
                <l>Strives with the gentle calmnesse of the flood.</l>
                <l>Such huge extremes, when Nature doth unite</l>
-               <l>Wonder from thence results,from thence delight,</l>
+               <l>Wonder from thence results, from thence delight,</l>
                <l>The streame is so transparent,pure, and cleare,</l>
-               <l>That had the self-enamourd youthgaz'd here,</l>
-               <note type="side-note" place="margin">Narcissus.</note>
+               <l>That had the self-enamourd youth gaz'd here,</l>
+               <note type="side-note" place="margin">Narcissus.<note type="gloss">In Greek
+                     mythology, Narcissus was famed for his beauty and his disdain for those who
+                     love him. In Ovid's <title>Metamorphoses</title>, Echo, a nymph falls in love
+                     with him. Narcissus shuns her love and for that is punished by Aphrodite, who
+                     makes him fall in love with his own reflection and transforms him into a flower
+                  </note></note>
                <l>So fatally deceiv'd he had not beene,</l>
                <l>While he the bottome,not his face had seene.</l>
                <l>And such the roughnesse of the Hill, on which</l>
-               <l><hi rend="italic">Dyana</hi> her toyles,and <hi rend="italic">Mars</hi> his tents
-                  might pitch.</l>
+               <l><hi rend="italic">Dyana<note type="gloss">In Roman mythology, Diana is the goddess
+                        of hunting and chastity.</note></hi> her toyles,and <hi rend="italic"
+                        >Mars<note type="gloss">Roman god of war.</note></hi> his tents might
+                  pitch.</l>
                <l>And as our surly supercilious Lords,</l>
                <l>Bigge in their frownes, and haughty in their words,</l>
-               <l>Look downe on those,whoso humble fruitfull paine</l>
-               <l>Their proud,and barren greatnesse must susteine :</l>
-               <l>So lookes the Hill upon the streame,betweene</l>
+               <l>Look downe on those, whose humble fruitfull paine</l>
+               <l>Their proud, and barren greatnesse must susteine:</l>
+               <l>So lookes the Hill upon the streame, betweene</l>
                <l>There lies a spatious, and a fertile Greene,</l>
-               <note type="side-note" place="margin">Egham Meade.</note>
-               <l>Where from the woods,the <hi rend="italic">Dryades</hi> oftmeet</l>
-               <l>The <hi rend="italic">Nayades</hi>,and with their nimble feet,</l>
+               <note type="side-note" place="margin">Egham Meade.<note type="gloss">Referring to a
+                     broad grassland between the village of Egham and the Thames which includes
+                     Runny Meade and Long Mead.</note></note>
+               <l>Where from the woods,the <hi rend="italic">Dryades<note type="gloss">Tree nymphs
+                        in Greek mythology</note></hi> oft meet</l>
+               <l>The <hi rend="italic">Nayades<note type="gloss">Fresh water nymphs in Greek
+                        mythology.</note></hi>,and with their nimble feet,</l>
                <pb xml:id="B4v"/>
                <l>Soft dances lead,although their airie shape</l>
                <l>All but a quicke Poeticke sight escape,</l>
-               <l>There <hi rend="italic">Faunus</hi> and <hi rend="italic">Sylvanus</hi> keepe
-                  their Courts,</l>
-               <l>And thither all the horrid hoast resorts.</l>
-               <l>( Whenlike the Elixar,with his evening beames,</l>
+               <l>There <hi rend="italic">Faunus<note type="gloss">Roman god of animals.</note></hi>
+                  and <hi rend="italic">Sylvanus<note type="gloss">Roman god of
+                     woodlands.</note></hi> keepe their Courts,</l>
+               <l>And thither all the horrid<note type="gloss">Possibly a misprint of 'horned,' as
+                     the forest gods are usually represented with horns.</note> hoast resorts.</l>
+               <l>(When like the Elixar<note type="gloss">In alchemy, an elixir is a liquid thought
+                     to be able to transform base metals into gold; may also refer to the 'Elixir of
+                     Life', a substance thought to grant immortality.</note>,with his evening
+                  beames,</l>
                <l>The Sunne has turn'd to gold the silver streames )</l>
-               <l>To graze the ranker Meade,that noble heard,</l>
-               <l>On whose sublime,and shady fronts is rear'd</l>
-               <l>Natures great Master-piece,to shew how soone</l>
-               <l>Great things are made,but sooner much undone.</l>
-               <l>Here have I seene our <hi rend="italic">Charles</hi>,when great affaires</l>
-               <l>Give leave to slacken,and unbend his cares,</l>
-               <l>Chacing the royall Stagge,the gallant beast,</l>
+               <l>To graze the ranker Meade, that noble heard,</l>
+               <l>On whose sublime, and shady fronts is rear'd</l>
+               <l>Natures great Master-piece, to shew how soone</l>
+               <l>Great things are made, but sooner much undone.</l>
+               <l>Here have I seene our <hi rend="italic">Charles<note type="gloss">Charles
+                     I</note></hi>, when great affaires</l>
+               <l>Give leave to slacken, and unbend his cares,</l>
+               <l>Chacing the royall Stagge<note type="gloss">Stags were amongst the most prized and
+                     most noble game. 'Royal' might also refer to his origin in a 'Royal Forest:'
+                     only the king and other permitted members of the nobility could hunt in a royal
+                     forest.</note>,the gallant beast,</l>
                <l>Rowz'd with the noyse 'twixt hope and feare distrest,</l>
                <l>Resolv's 'tis better to avoyd,then meet</l>
                <l>His danger, trusting to his winged feet :</l>
-               <l>But when he sees the dogs,now by the view</l>
+               <l>But when he sees the dogs, now by the view</l>
                <l>Now by the scent his speed with speed pursue,</l>
-               <l>He tries his friends,amongst the lesser Heard,</l>
+               <l>He tries his friends, amongst the lesser Heard,</l>
                <l>Where he but lately was obey'd,and feard,</l>
                <pb xml:id="C1r"/>
-               <l>Safety he seekes,the heard unkindly wise,</l>
-               <l>Or chases him from thence,or form him flies,</l>
-               <l>Like a delcining Statesman,left forlorne</l>
+               <l>Safety he seekes, the heard unkindly wise<note type="gloss">Wise beyond their kind
+                     (i.e., against their nature), or possibly wise in an unkind manner.</note>,</l>
+               <l>Or chases him from thence,or from him flies,</l>
+               <l>Like a delcining Statesman, left forlorne</l>
                <l>To his friends pitty, and pursuers scorne.</l>
-               <l>Wearied,forsaken,and pursude at last</l>
+               <l>Wearied, forsaken, and pursude at last</l>
                <l>All safety in despaire of safety plac't.</l>
-               <l>Courage he thence assumes,resolv'd to beare</l>
+               <l>Courage he thence assumes, resolv'd to beare</l>
                <l>All their assaults,since 'tis in vaine to feare,</l>
                <l>But when he sees the eager chase renu'd</l>
-               <l>Himselfe by dogs,the dogs by men pursu'd.</l>
-               <l>When neither speed,nor art,nor friends,nor force</l>
-               <l>could helpe him towards the streame he bends his course.</l>
-               <l>Hoping those lesser beasts would not assay</l>
+               <l>Himselfe by dogs,the dogs by men pursu'd;</l>
+               <l>When neither speed, nor art, nor friends, nor force</l>
+               <l>could helpe him, towards the streame he bends his course.</l>
+               <l>Hoping those lesser beasts<note type="gloss">In the hierarchy of animals, dogs are
+                     'less noble' than stags.</note> would not assay</l>
                <l>An Element, more mercilesse then they.</l>
                <l>But fearlesse they pursue, nor can the flood</l>
-               <l>Quench their dire thirst ( alas ) they thirst for blood.</l>
-               <l>As some brave <hi rend="italic">Hero</hi>,whom his base foes</l>
-               <l>In troops surround, now these assaile,now those</l>
+               <l>Quench their dire thirst (alas) they thirst for blood.</l>
+               <l>As some brave <hi rend="italic">Hero</hi>, whom his base foes</l>
+               <l>In troops surround, now these assaile, now those</l>
                <l>Though prodigall of life, disdains to die</l>
-               <l>By vulgar hands,but if he can descry</l>
+               <l>By vulgar hands, but if he can descry</l>
                <pb xml:id="C1v"/>
-               <l>Some Nobler foes approach,to him he cals</l>
+               <l>Some Nobler foes approach, to him he cals</l>
                <l>And begs his fate, and then contented fals :</l>
-               <l>So the tall Stagge,amids the lesser hounds</l>
+               <l>So the tall Stagge, amids the lesser hounds</l>
                <l>Repels their force, and wounds returne for wounds,</l>
                <l>Till <hi rend="italic">Charles</hi> from his unerring hand lets flie</l>
                <l>A mortall shaft, then glad, and proud to dye</l>
                <l>By such a wound he fals, the Christall flood</l>
-               <l>Dying he dyes,and purples with his blood :</l>
+               <l>Dying he dyes,and purples with his blood:</l>
                <l>This a more Innocent, and happy chase</l>
                <l>Then when of old, but in the self-same place,</l>
-               <note type="identification" place="margin">Runny Mead where the great Charter was
-                  first sealed.</note>
-               <l>Faire liberty pursude,and meant a Prey</l>
-               <l>To tyranny, here turn'd,and stood at bay.</l>
+               <note type="identification" place="margin">Runny Mead where the great Charter<note
+                     type="gloss">The Magna Carta, signed at Runny Meade.</note> was first
+                  sealed.</note>
+               <l>Faire liberty pursude, and meant a Prey</l>
+               <l>To tyranny, here turn'd, and stood at bay.</l>
                <l>When in that remedy all hope was plac't</l>
                <l>Which was, or should have been at least the last.</l>
                <l>For armed subjects can have no pretence</l>
-               <l>Against their Princes,but their just defence,</l>
-               <l>And whether then,or no,I leave to them</l>
+               <l>Against their Princes, but their just defence,</l>
+               <l>And whether then, or no, I leave to them</l>
                <l>To justifie, who else themselves condemnes</l>
-               <l>Yet might the fact be just,if we may guesse</l>
+               <l>Yet might the fact be just, if we may guesse</l>
                <l>The justnesse of an action from successe</l>
                <pb xml:id="C2r"/>
                <l>Here was that Charter seal'd, wherein the Crowne</l>
                <note type="side-note" place="margin">Magna Charta.</note>
-               <l>All markes of Arbitrary power layes downe :</l>
-               <l>Tyrant and Slave,those names of hate and feare,</l>
-               <l>The happier style of King and Subject beare :</l>
+               <l>All markes of Arbitrary power layes downe:</l>
+               <l>Tyrant and Slave, those names of hate and feare,</l>
+               <l>The happier style of King and Subject beare:</l>
                <l>Happy when both to the same Center move,</l>
-               <l>When Kings give liberty,and Subjects love.</l>
+               <l>When Kings give liberty, and Subjects love.</l>
                <l>Therefore not long in force this Charter stood</l>
-               <l>Wanting that seale,it must be seal'd in blood.</l>
+               <l>Wanting that seale, it must be seal'd in blood.</l>
                <l>The subjects arm'd,the more their Princes gave,</l>
-               <l>But this advantage tooke,the more to crave :</l>
-               <l>Till Kings by giving,give themselves away,</l>
-               <l>And even that power,that should deny,betray,</l>
+               <l>But this advantage tooke, the more to crave:</l>
+               <l>Till Kings by giving, give themselves away,</l>
+               <l>And even that power,that should deny, betray,</l>
                <l>"Who gives constrain'd, but his owne feare reviles</l>
-               <l>"Not thank't,but scnorn'd, nor are they gifts,but spoyles.</l>
+               <l>"Not thank't, but scorn'd, nor are they gifts, but spoyles.</l>
                <l>And they, whom no denyall can withstand,</l>
                <l>Seeme but to aske, while they indeed command.</l>
                <l>Thus all to limit Royalty conspire,</l>
-               <l>While each fogets to limit his desire.</l>
+               <l>While each forgets to limit his desire.</l>
                <pb xml:id="C2v"/>
-               <l>Till Kings like old <hi rend="italic">Anteus</hi> by their fall,</l>
-               <l>Being forc't,their courage from despaire recall.</l>
+               <l>Till Kings like old <hi rend="italic">Anteus<note type="gloss">In Greek mythology,
+                        Antaeus was a giant, son of Poseidon and Gaia. Antaeus would challenge
+                        passers-by to wrestling matches until eventually he was defeated by
+                        Heracles.</note></hi> by their fall,</l>
+               <l>Being forc't, their courage from despaire recall.</l>
                <l>When a calme River rais'd with sudden raines,</l>
-               <l>Or Snowes dissolv'do'reflowes th'adjoyning Plaines</l>
-               <l>The Husbandmen with high rais'd bankes secure</l>
+               <l>Or Snowes dissolv'd o'reflowes th'adjoyning Plaines</l>
+               <l>The Husbandmen<note type="gloss">Farmers</note> with high rais'd bankes secure</l>
                <l>Their greedy hopes, and this he can endure.</l>
-               <l>But if with Bogs , and Dammes they strive to force,</l>
+               <l>But if with Bogs, and Dammes they strive to force,</l>
                <l>His channell to a new,or narrow course.</l>
                <l>No longer then within his bankes he dwels,</l>
                <l>First to a Torrent, then a Deluge swels</l>
@@ -489,16 +524,16 @@
                <l>Thus Kings by grasping more then they can hold,</l>
                <l>First made their Subjects by oppressions bold,</l>
                <l>And popular sway by forcing Kings to give</l>
-               <l>More,then was fit for Subjects to receive,</l>
+               <l>More, then was fit for Subjects to receive,</l>
                <l>Ranne to the same extreame, and one excesse</l>
-               <l>Made both by stirring to be greater,lesse.</l>
+               <l>Made both by stirring to be greater, lesse.</l>
                <pb xml:id="C3r"/>
                <l>Nor any way, but seeking to have more</l>
                <l>Makes either loose, what each possest before.</l>
                <l>Therefore their boundlesse power tell Princes draw</l>
                <l>Within the Channell, and the shores of Law,</l>
-               <l>And may that Law,which teaches Kings to swat</l>
-               <l>Their Scepters,teach their Subjects to obey.</l>
+               <l>And may that Law, which teaches Kings to swat</l>
+               <l>Their Scepters, teach their Subjects to obey.</l>
             </div>
             <div type="end">
                <p>FINIS.</p>
