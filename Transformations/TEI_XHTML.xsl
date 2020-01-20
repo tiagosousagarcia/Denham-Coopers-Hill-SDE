@@ -19,14 +19,35 @@
                 }
                 h1,
                 h2,
-                h3, p.imprint {
+                h3,
+                p.imprint {
                     text-align: center;
                 }
                 
-                p, div.poem{
-                line-height: 2em;
+                p,
+               {
+                    line-height: 2em;
                 }
-            
+                
+                span.lineNumber1 {
+                    font-size: 0.8em;
+                    color: grey;
+                    margin-right: -0.5em;
+                }
+                span.lineNumber10 {
+                font-size: 0.8em;
+                color: grey;
+                margin-right: -1em;
+                }
+                span.lineNumber100 {
+                font-size: 0.8em;
+                color: grey;
+                margin-right: -1.5em;
+                }
+                span.verseLine {
+                    padding-left: 3em;
+                    line-height: 2em;
+                }
             </style>
             <body>
                 <div class="content">
@@ -55,8 +76,8 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    
-    <xsl:template match="//body/div[@type='poem']">
+
+    <xsl:template match="//body/div[@type = 'poem']">
         <div class="poem">
             <xsl:apply-templates/>
         </div>
@@ -82,7 +103,9 @@
 
     <xsl:template match="//front/div[@type = 'Author']/p">
         <h2>
-            <strong><xsl:apply-templates/></strong>
+            <strong>
+                <xsl:apply-templates/>
+            </strong>
         </h2>
     </xsl:template>
 
@@ -93,6 +116,7 @@
     </xsl:template>
 
     <xsl:template match="body/div/head">
+        <hr/>
         <p>
             <em>
                 <strong>
@@ -103,7 +127,33 @@
     </xsl:template>
 
     <xsl:template match="l">
-        <xsl:apply-templates/>
+        <!-- Tests whether the line is a multiple of 5, if so, adds line number and styles it, depending on the number of characters (1, 10, 100) -->
+        <xsl:variable name="lineN">
+            <xsl:number/>
+        </xsl:variable>
+        <xsl:if test="$lineN mod 5 = 0">
+            <xsl:choose>
+                <xsl:when test="$lineN &gt; 99">
+                    <span class="lineNumber100">
+                        <xsl:value-of select="$lineN"/>
+                    </span>
+                </xsl:when>
+                <xsl:when test="$lineN &gt; 9">
+                    <span class="lineNumber10">
+                        <xsl:value-of select="$lineN"/>
+                    </span>
+                </xsl:when>
+                <xsl:otherwise>
+                    <span class="lineNumber1">
+                        <xsl:value-of select="$lineN"/>
+                    </span>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:if>
+        <!-- Always applies span class verse line and break -->
+        <span class="verseLine">
+            <xsl:apply-templates/>
+        </span>
         <br/>
     </xsl:template>
 
