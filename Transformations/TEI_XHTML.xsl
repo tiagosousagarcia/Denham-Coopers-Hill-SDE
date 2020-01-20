@@ -13,6 +13,12 @@
                     float: right;
                 }
                 
+                p.back{
+                font-size: 0.8em;
+                text-align: right;
+                line-height: 0.5em;
+                }
+                
                 .content {
                     max-width: 500px;
                     margin: auto;
@@ -49,9 +55,13 @@
                     line-height: 2em;
                 }
             </style>
+            <head>
+                <xsl:apply-templates select="//titleStmt/title" mode="head"/>
+            </head>
             <body>
                 <div class="content">
                     <xsl:apply-templates/>
+                    <hr/>
                     <ol>
                         <xsl:apply-templates select="//note[@type = 'gloss']" mode="footnotes"/>
                     </ol>
@@ -64,7 +74,7 @@
 
     <xsl:template match="teiHeader"/>
 
-    <xsl:template match="//titleStmt/title">
+    <xsl:template match="//titleStmt/title" mode="head">
         <title>
             <xsl:apply-templates/>
         </title>
@@ -183,9 +193,12 @@
         <xsl:variable name="num">
             <xsl:number count="note" from="body" level="any"/>
         </xsl:variable>
-        <li id="{concat('note', $num)}">
+        <li id="{concat('note', $num)}" onclick="javascript:history.back()">
             <xsl:apply-templates/>
         </li>
+        <p class="back">
+            <a href="javascript:history.back()">Back</a>
+        </p>
     </xsl:template>
 
 
