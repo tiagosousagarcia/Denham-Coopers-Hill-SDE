@@ -9,8 +9,10 @@
     <xsl:template match="/">
         <html>
             <style type="text/css">
-                p.sideNote {
-                    float: right;
+                span.sideNote {
+                    margin-left: 3em;
+                    font-size: 0.8em;
+                    font-style: italic;
                 }
                 
                 p.back{
@@ -20,7 +22,7 @@
                 }
                 
                 .content {
-                    max-width: 500px;
+                    max-width: 600px;
                     margin: auto;
                 }
                 h1,
@@ -173,9 +175,9 @@
     </xsl:template>
 
     <xsl:template match="//note[@type = 'side-note']">
-        <p class="sideNote">
+        <span class="sideNote">
             <xsl:apply-templates/>
-        </p>
+        </span>
     </xsl:template>
 
     <xsl:template match="//note[@type = 'gloss']">
