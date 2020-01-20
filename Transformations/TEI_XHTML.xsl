@@ -15,6 +15,14 @@
                     font-style: italic;
                 }
                 
+                span.dropCap{
+                margin-left: -0.5em;
+                font-size: 5em;
+                font-weight: bold;
+                vertical-align: -webkit-baseline-middle;}
+                
+                span.italic { font-style: italic;}
+                
                 p.back{
                 font-size: 0.8em;
                 text-align: right;
@@ -202,6 +210,26 @@
             <a href="javascript:history.back()">Back</a>
         </p>
     </xsl:template>
+
+    <xsl:template match="//hi[@rend = 'initial']">
+        <span class="dropCap">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+
+    <xsl:template match="//hi[@rend = 'italic'] | title">
+        <span class="italic">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
+    <xsl:template match="//ref">
+        <xsl:variable name="link">
+            <xsl:value-of select="//ref/@target"/>
+        </xsl:variable>
+        <a href="{$link}"><xsl:apply-templates/></a>
+    </xsl:template>
+    
 
 
 
