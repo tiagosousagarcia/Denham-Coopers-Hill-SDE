@@ -189,7 +189,7 @@
         </p>
     </xsl:template>
 
-    <!-- Adds title from body of text -->
+    <!-- Adds title from body of text (styling should probably all be in css, but too lazy to change that now)-->
     <xsl:template match="body/div/head">
         <hr/>
         <p>
@@ -264,7 +264,7 @@
             <xsl:number count="note[@type = 'gloss']" from="body" level="any"/>
         </xsl:variable>
         <!-- Creates back buttons from footnotes to main text -->
-        <li id="{concat('note', $num)}" onclick="javascript:history.back()">
+        <li id="{concat('note', $num)}">
             <xsl:apply-templates/>
         </li>
         <p class="back">
