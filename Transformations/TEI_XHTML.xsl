@@ -28,6 +28,12 @@
                 color: grey;
                 float:right;}
                 
+                span.colophon {
+                font-size: 0.8em;
+                color: SlateGrey;
+                line-height: 1.5em;
+                }
+                
                 p.back{
                 font-size: 0.8em;
                 text-align: right;
@@ -80,6 +86,9 @@
                     <ol>
                         <xsl:apply-templates select="//note[@type = 'gloss']" mode="footnotes"/>
                     </ol>
+                    <br/>
+                    <hr/>
+                    <xsl:apply-templates select="//back/div[@type='colophon']" mode="colophon"/>
                 </div>
             </body>
         </html>
@@ -87,7 +96,7 @@
 
     <!-- Add your templates here! -->
 
-    <xsl:template match="teiHeader"/>
+    <xsl:template match="teiHeader | back"/>
 
     <xsl:template match="//titleStmt/title" mode="head">
         <title>
@@ -243,6 +252,11 @@
         </xsl:variable>
         <span class="pageBreak"><a href="{$link}">[<xsl:value-of select="@xml:id"/><xsl:apply-templates/>]</a></span>
         <br/>
+    </xsl:template>
+    
+    <xsl:template match="//back/div[@type='colophon']" mode="colophon">
+        <span class="colophon"><xsl:apply-templates/><br/><br/>Laste update: <xsl:value-of select="format-date(current-date(), 
+            '[FNn], the [D1o] of [MNn], [Y]')"/></span>
     </xsl:template>
 
 

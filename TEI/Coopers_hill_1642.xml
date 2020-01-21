@@ -615,5 +615,28 @@
                         </div>
                   </div>
             </body>
+            <back>
+                  <div type="colophon">
+                        <p>This edition of John Denham's <title>Coopers Hill</title> was prepared
+                              for SEL2218: <title>Research Project in English and History</title> by
+                                    <ref
+                                    target="https://www.ncl.ac.uk/elll/staff/profile/tiagosousa-garcia.html#background"
+                                    >Dr. Tiago Sousa Garcia</ref>. It does not constitute a critical
+                              edition but rather an enhanced transcript. The notes are partly
+                              derived from Brendan O Hehir's <bibl><title>Expans'd hieroglyphicks: a
+                                          critical edition of Sir John Denham's Coopers Hill</title>
+                                          (<pubPlace>Berkeley</pubPlace>, <publisher>University of
+                                          California Press</publisher>: <date>1969</date>)</bibl>.
+                              The text was encoded in <ref target="https://tei-c.org/">TEI</ref>-XML
+                              and transformed into HTML using an <ref
+                                    target="https://en.wikipedia.org/wiki/XSLT">XSLT</ref>
+                              transformation (ask Tiago if you want to know more). You can find the
+                                    <ref
+                                    target="https://github.com/tiagosousagarcia/Denham-Coopers-Hill-SDE/tree/SEL2218_Edition/TEI"
+                                    >source TEI files here</ref> and the <ref
+                                    target="https://github.com/tiagosousagarcia/Denham-Coopers-Hill-SDE/blob/SEL2218_Edition/Transformations/TEI_XHTML.xsl"
+                                    >XSLT transformation here</ref>.</p>
+                  </div>
+            </back>
       </text>
 </TEI>
