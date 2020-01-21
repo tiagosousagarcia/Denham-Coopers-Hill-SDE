@@ -23,6 +23,11 @@
                 
                 span.italic { font-style: italic;}
                 
+                span.pageBreak {
+                font-size: 0.8em;
+                color: grey;
+                float:right;}
+                
                 p.back{
                 font-size: 0.8em;
                 text-align: right;
@@ -190,7 +195,7 @@
 
     <xsl:template match="//note[@type = 'gloss']">
         <xsl:variable name="num">
-            <xsl:number count="note[@type='gloss']" from="body" level="any"/>
+            <xsl:number count="note[@type = 'gloss']" from="body" level="any"/>
         </xsl:variable>
         <a href="{concat('#note', $num)}">
             <sup>
@@ -201,7 +206,7 @@
 
     <xsl:template match="//note[@type = 'gloss']" mode="footnotes">
         <xsl:variable name="num">
-            <xsl:number count="note[@type='gloss']" from="body" level="any"/>
+            <xsl:number count="note[@type = 'gloss']" from="body" level="any"/>
         </xsl:variable>
         <li id="{concat('note', $num)}" onclick="javascript:history.back()">
             <xsl:apply-templates/>
@@ -222,18 +227,24 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    
+
     <xsl:template match="//ref">
         <xsl:variable name="link">
             <xsl:value-of select="//ref/@target"/>
         </xsl:variable>
-        <a href="{$link}"><xsl:apply-templates/></a>
+        <a href="{$link}">
+            <xsl:apply-templates/>
+        </a>
     </xsl:template>
-    
+
     <xsl:template match="//pb">
-        <span class="pageBreak"><xsl:value-of select="/pb/@xml:id"/><xsl:apply-templates/></span>
+        <xsl:variable name="link">
+            <xsl:value-of select="@facs"/>
+        </xsl:variable>
+        <span class="pageBreak"><a href="{$link}">[<xsl:value-of select="@xml:id"/><xsl:apply-templates/>]</a></span>
+        <br/>
     </xsl:template>
-    
+
 
 
 
