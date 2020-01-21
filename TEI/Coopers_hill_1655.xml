@@ -28,7 +28,8 @@
       <text>
             <front>
                   <div type="title">
-                        <pb xml:id="A1r" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676"/>
+                        <pb xml:id="A1r"
+                              facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676"/>
                         <head type="title" rend="center">COOPERS HILL.</head>
                         <head type="subtitle" rend="center">Written in the yeare 1640.</head>
                         <head type="addInformation" rend="italic">Now printed from a perfect Copy;
@@ -46,7 +47,8 @@
             </front>
             <body>
                   <div type="poem">
-                        <pb xml:id="B1r" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:3"/>
+                        <pb xml:id="B1r"
+                              facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:3"/>
                         <head type="title">Coopers Hill.<note type="gloss"><ref
                                           target="https://goo.gl/maps/YmAwtWgySQz8oFQF6">A small
                                           hill (c. 220 ft) in Egham, near Windsor</ref>. Coopers
@@ -56,13 +58,14 @@
                                     impossible) that any observer could actually spot the spire of
                                     St. Paul's Cathedral, as Denham claims.</note> [1655]</head>
                         <div type="verse">
-                              <l><hi rend="initial">I</hi>F there be Poets,which did never dreame</l>
-                              <l>Upon Parnassus<note type="gloss">Mount Parnassus, in Greece, the
-                                          home of the Muses.</note>, nor did tast the streame</l>
-                              <l>Of Helicon<note type="gloss">Mount Helicon, in Greece, where two
+                              <l><hi rend="initial">I</hi>F there be Poets,which did never
+                                    dreame</l>
+                              <l>Upon Parnassus,<note type="gloss">Mount Parnassus, in Greece, the
+                                          home of the Muses.</note> nor did tast the streame</l>
+                              <l>Of Helicon,<note type="gloss">Mount Helicon, in Greece, where two
                                           springs sacred to the Muses were located, the Aganippe and
                                           the Hippocrene. The waters of the Hippocrene were supposed
-                                          to bring poetic inspiration.</note>, we justly may
+                                          to bring poetic inspiration.</note> we justly may
                                     suppose,</l>
                               <l>Those made not Poets, but the Poets those.</l>
                               <l>And as Courts make not Kings, but Kings the Court,<note
@@ -79,11 +82,12 @@
                               <l>That lyes between,and first salutes the place</l>
                               <l>Crown'd with that sacred pile,so vast,so high,</l>
                               <l>That whether 'tis a part of Earth,or sky,</l>
-                              <pb xml:id="B1v" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:4"/>
+                              <pb xml:id="B1v"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:4"/>
                               <l>Uncertaine seemes, and may be thought a proud</l>
                               <l>Aspiring mountain, or a falling cloud,</l>
-                              <l>Pauls<note type="gloss">Old St. Paul's Cathedral, that burned down
-                                          in the Great Fire of London (1666).</note>,the late theme
+                              <l>Pauls,<note type="gloss">Old St. Paul's Cathedral, that burned down
+                                          in the Great Fire of London (1666).</note> the late theme
                                     of such a Muse whose flight <note type="side-note"
                                           place="margin" rend="italic">Master Waler<note
                                                 type="gloss">Cf. Edmund Waller's 'Upon His Majesties
@@ -108,16 +112,17 @@
                               <l>Are each the others ruine, and increase;</l>
                               <l>As Rivers lost in Seas some secret veine</l>
                               <l>Thence reconveighs,there to be lost again.</l>
-                              <pb xml:id="B2r" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:4"/>
+                              <pb xml:id="B2r"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:4"/>
                               <l>Oh happinesse of sweet retir'd content!</l>
                               <l>To be at once secure,and innocent.</l>
                               <l><hi rend="italic">Windsor</hi> the next ( where <hi rend="italic"
-                                          >Mars</hi> with <hi rend="italic">Venus</hi> dwells<note
+                                          >Mars</hi> with <hi rend="italic">Venus</hi> dwells,<note
                                           type="gloss">Partly symbols of strength and beauty, as
                                           Windsor castle, partly symbols for Charles I and Henrietta
                                           Maria, his queen consort. It was common to represent
                                           reigning monarchs and their consorts as Mars and Venus in
-                                          Renaissance painting.</note>, <note type="side-note"
+                                          Renaissance painting.</note> <note type="side-note"
                                           place="margin" rend="italic">Windsor.</note></l>
                               <l>Beauty with strength) above the valley swells</l>
                               <l>Into my eye, and doth it self present</l>
@@ -126,8 +131,8 @@
                               <l>Accesse, no horror turnes away our eyes:</l>
                               <l>But such a Rise, as doth at once invite</l>
                               <l>A pleasure, and a reverence from the sight.</l>
-                              <l>Thy mighty Masters Embleme<note type="gloss">The master is Charles
-                                          I, the castle his emblem.</note>, in whose face</l>
+                              <l>Thy mighty Masters Embleme,<note type="gloss">The master is Charles
+                                          I, the castle his emblem.</note> in whose face</l>
                               <l>Sate meeknesse, heightned with Majestick Grace.</l>
                               <l>Such seems thy gentle height, made onely proud</l>
                               <l>To be the basis of that pompous load,</l>
@@ -139,13 +144,14 @@
                               <l>'Twas guided by a wiser power then Chance;</l>
                               <l>Mark't out for such a use, as if 'twere meant</l>
                               <l>T'invite the builder, and his choice prevent.</l>
-                              <pb xml:id="B2v" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:5"/>
+                              <pb xml:id="B2v"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:5"/>
                               <l>Nor can we call it choice, when what we chuse,</l>
                               <l>Folly, or blindnes only could refuse.</l>
                               <l>A Crown of such Majestick towrs doth Grace</l>
-                              <l>The Gods great Mother<note type="gloss">The goddess Cybele,
+                              <l>The Gods great Mother,<note type="gloss">The goddess Cybele,
                                           Phrygian mother of the gods, later adopted into Greek
-                                          mythology.</note>, when her heavenly race</l>
+                                          mythology.</note> when her heavenly race</l>
                               <l>Doe homage to her, yet she cannot boast</l>
                               <l>Amongst that numerous, and Celestiall hoast,</l>
                               <l>More <hi rend="italic">Hero's</hi> than can <hi rend="italic"
@@ -153,22 +159,22 @@
                               <l>Immortall booke record more noble names.</l>
                               <l>Not to look back so far, to whom this Ile</l>
                               <l>Owes the first Glory so brave a pile,</l>
-                              <l>Whether to <hi rend="italic">Caesar</hi><note type="gloss">Julius
-                                          Caesar, who first invaded Britain.</note>, <hi
-                                          rend="italic">Albanact</hi><note type="gloss">Albanactus,
+                              <l>Whether to <hi rend="italic">Caesar,</hi><note type="gloss">Julius
+                                          Caesar, who first invaded Britain.</note> <hi
+                                          rend="italic">Albanact,</hi><note type="gloss">Albanactus,
                                           mythical founding king of the kingdom of Albania, roughly
-                                          modern-day Scotland</note>, or <hi rend="italic"
-                                          >Brute</hi><note type="gloss">Brutus of Troy, the
-                                          legendary founder and first king of Britain.</note>,</l>
-                              <l>The Brittish <hi rend="italic">Arthur</hi><note type="gloss">King
+                                          modern-day Scotland</note> or <hi rend="italic"
+                                          >Brute,</hi><note type="gloss">Brutus of Troy, the
+                                          legendary founder and first king of Britain.</note></l>
+                              <l>The Brittish <hi rend="italic">Arthur,</hi><note type="gloss">King
                                           Arthur, legendary Celtic king who fought against the Saxon
                                           invasion of Britain; central character in the medieval
-                                          romances that make up the Matter of Britain.</note>,or the
-                                    Danish <hi rend="italic">Knute</hi><note type="gloss">King
+                                          romances that make up the Matter of Britain.</note> or the
+                                    Danish <hi rend="italic">Knute,</hi><note type="gloss">King
                                           Canute, Danish king of Denmark, England and Norway (the
                                           North Sea Empire). Famously portrayed in an anecdote in
                                           which he demonstrates the futility of 'trying to stop the
-                                          tide.'</note>,</l>
+                                          tide.'</note></l>
                               <l>(Though this of old no lesse contest did move,</l>
                               <l>Then when for <hi rend="italic">Homers</hi> birth seven Cities
                                           strove<note type="gloss">Homer's birthplace (if one is to
@@ -181,23 +187,24 @@
                               <l>First a brave place, and then as brave a minde.</l>
                               <l>Not to recount those severall Kings, to whom</l>
                               <l>It gave a Cradle, or to whom a Tombe,</l>
-                              <pb xml:id="B3r" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:5"/>
+                              <pb xml:id="B3r"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:5"/>
                               <l>But thee (great <hi rend="italic">Edward</hi>) and thy greater
-                                          sonne<note type="gloss">Edward the Black Prince had a
+                                          sonne,<note type="gloss">Edward the Black Prince had a
                                           famous victory at Poitiers in 1356 in which he captured
-                                          his father's rival, King John of France.</note>, <note
+                                          his father's rival, King John of France.</note> <note
                                           type="side-note" place="margin" rend="italic">Edward the
                                           3. and the black prince.</note></l>
                               <l>(The lillies <note type="gloss">The fleurs-de-lis, that is, the
                                           French crown. Edward III was the first English king to
                                           claim the French throne.</note> which his Father wore, he
                                     wonne)</l>
-                              <l>And thy <hi rend="italic">Bellona</hi><note type="gloss">Roman
-                                          goddess of war</note>, who the Consort came</l>
+                              <l>And thy <hi rend="italic">Bellona,</hi><note type="gloss">Roman
+                                          goddess of war</note> who the Consort came</l>
                               <l>Not onely to thy bed, but to thy Fame, <note type="side-note"
-                                          place="margin" rend="italic">Queene Philip <note
+                                          place="margin" rend="italic">Queene Philip.<note
                                                 type="gloss">Phillipa of Hainault, Queen consort of
-                                                Edward III.</note>.</note></l>
+                                                Edward III.</note></note></l>
                               <l>She to thy Triumph led one Captive King, <note type="side-note"
                                           place="margin" rend="italic">The Kings of France &amp;
                                           Scotland.</note></l>
@@ -226,7 +233,8 @@
                               <l>Or thy desires more mighty, did devoure;</l>
                               <l>To whom their better Fate reserves what ere</l>
                               <l>The Victor hopes for, or the Vanquisht feare;</l>
-                              <pb xml:id="B3v" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:6"/>
+                              <pb xml:id="B3v"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:6"/>
                               <l>That blood, which thou and thy great Grandsire shed,</l>
                               <l>And all that since these sister Nations bled,</l>
                               <l>Had bin unspilt, had happy <hi rend="italic">Edward</hi> known</l>
@@ -248,14 +256,15 @@
                                           1649.</note></l>
                               <l>Here should my wonder dwell,and here my praise,</l>
                               <l>But my fixt thoughts my wandring eye betrays,</l>
-                              <l>Viewing a neighboring hill<note type="gloss">St. Anne's Hill in
-                                          Chertsey.</note>, whose top of late</l>
+                              <l>Viewing a neighboring hill,<note type="gloss">St. Anne's Hill in
+                                          Chertsey.</note> whose top of late</l>
                               <l>A Chappel crown'd, till in the Common Fate,</l>
                               <l>The adjoyning Abby<note type="gloss">Chertsey Abbey.</note>
                                           fell<note type="gloss">The dissolution of the monasteries,
                                           ordered by Henry VIII.</note>:(may no such storme</l>
                               <l>Fall on our times, where ruine must reform.)</l>
-                              <pb xml:id="B4r" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:6"/>
+                              <pb xml:id="B4r"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:6"/>
                               <l>Tell me (my Muse) what monstrous dire Offence,</l>
                               <l>What crime could any Christian incense</l>
                               <l>To such a rage? was't Luxury? or lust?</l>
@@ -278,7 +287,8 @@
                                           Faith.'</note></l>
                               <l>Then did Religion in a lazie Cell ,</l>
                               <l>In emptie, airie contemplations dwell;</l>
-                              <pb xml:id="B4v" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:7"/>
+                              <pb xml:id="B4v"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:7"/>
                               <l>And like the block, unmoved lay: but ours,</l>
                               <l>As much too active, like the storke devours.</l>
                               <l>Is there no temperate Region can be knowne,</l>
@@ -294,10 +304,10 @@
                               <l>Then led by a false guide to erre by day?</l>
                               <l>Who sees these dismall heaps,but would demand,</l>
                               <l>What barbarous Invader sackt the land?</l>
-                              <l>But when he heares, no Goth<note type="gloss">The Goths were a
+                              <l>But when he heares, no Goth,<note type="gloss">The Goths were a
                                           germanic people that played an important part in the fall
                                           of the Western Roman Empire at the start of the medieval
-                                          period.</note>, no Turk<note type="gloss">The Ottoman
+                                          period.</note> no Turk<note type="gloss">The Ottoman
                                           empire was the principal opponent of the Christian Kings
                                           and Empires in the early modern period.</note> did
                                     bring</l>
@@ -306,7 +316,8 @@
                               <l>'Twixt our best actions and the worst of theirs,</l>
                               <l>What does he think our Sacriledge would spare,</l>
                               <l>When such th'effects of our devotions are?</l>
-                              <pb xml:id="C1r" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:7"/>
+                              <pb xml:id="C1r"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:7"/>
                               <l>Parting from thence 'twixt anger, shame, and feare,</l>
                               <l>Those for what's past, and this for what's too neare:</l>
                               <l>My eye descending from the Hill, survaies</l>
@@ -330,7 +341,8 @@
                               <l>Like profuse Kings, resumes the wealth he gave.</l>
                               <l>No unexpected inundations spoyle</l>
                               <l>The mowers hopes, nor mock the plowmans toyle:</l>
-                              <pb xml:id="C1v" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:8"/>
+                              <pb xml:id="C1v"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:8"/>
                               <l>But Godlike his unwearied Bounty flows ;</l>
                               <l>First loves to do, then loves the Good he does.</l>
                               <l>Nor are his Blessings to his banks confin'd,</l>
@@ -355,7 +367,8 @@
                               <l>Us,or her selfe, with strange varieties,</l>
                               <l>(For things of wonder give no lesse delight</l>
                               <l>To the wise Maker's, then beholder's sight.</l>
-                              <pb xml:id="C2r" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:8"/>
+                              <pb xml:id="C2r"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:8"/>
                               <l>Though these delights from severall causes move,</l>
                               <l>For so our children, thus our friends we love)</l>
                               <l>Wisely she knew, the harmony of things,</l>
@@ -375,7 +388,7 @@
                               <l>The streame is so transparent,pure,and cleare,</l>
                               <l>That had the selfe-enamour'd youth gaz'd here, <note
                                           type="side-note" place="margin" rend="italic"
-                                                >Narcis-sus.<note type="gloss">In Greek mythology,
+                                                >Narcissus.<note type="gloss">In Greek mythology,
                                                 Narcissus was famed for his beauty and his disdain
                                                 for those who love him. In Ovid's
                                                   <title>Metamorphoses</title>, Echo, a nymph, falls
@@ -389,7 +402,8 @@
                               <l>Among the Clouds; his shoulders, and his sides</l>
                               <l>A shady mantle cloaths; his curled brows</l>
                               <l>Frowne on the Gentle streame, which calmly flows,</l>
-                              <pb xml:id="C2v" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:9"/>
+                              <pb xml:id="C2v"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:9"/>
                               <l>While winds and stormes his lofty forhead beat:</l>
                               <l>The common fate of all that's high, or great.</l>
                               <l>Low at his foot a spacious plaine is plac't,</l>
@@ -414,12 +428,13 @@
                               <l>On whose sublime and shady fronts is reard</l>
                               <l>Natures great Masterpeece; to shew how soone</l>
                               <l>Great things are made,but sooner are undone.</l>
-                              <pb xml:id="C3r" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:9"/>
-                              <l>Here have I seene the King<note type="gloss">In 1655 when this poem
+                              <pb xml:id="C3r"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:9"/>
+                              <l>Here have I seene the King,<note type="gloss">In 1655 when this poem
                                           is published there is no king: Charles I had been executed
                                           in 1649 and his son, the future Charles II, is in exile.
                                           Britain is a commonwealth, rulled by a council of state
-                                          and a Lord Protector, Oliver Cromwell.</note>, when great
+                                          and a Lord Protector, Oliver Cromwell.</note> when great
                                     affaires</l>
                               <l>Give leave to slacken, and unbend his cares,</l>
                               <l>Attended to the Chase by all the flower</l>
@@ -442,7 +457,8 @@
                               <l>All instruments, all Arts of ruine met;</l>
                               <l>He calls to mind his strength, and then his speed,</l>
                               <l>His winged heeles, and then his armed head;</l>
-                              <pb xml:id="C3v" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:10"/>
+                              <pb xml:id="C3v"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:10"/>
                               <l>With these t'avoyd, with that his Fate to meet:</l>
                               <l>But feare prevails, and bids him trust his feet.</l>
                               <l>So fast he flyes, that his reviewing eye</l>
@@ -464,7 +480,8 @@
                               <l>The scenes of his past triumphs, and his loves;</l>
                               <l>Sadly surveying where he rang'd alone</l>
                               <l>Prince of the soyle, and all the heard his owne ;</l>
-                              <pb xml:id="C4r" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:10"/>
+                              <pb xml:id="C4r"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:10"/>
                               <l>And like a bold Knight Errant did proclaime</l>
                               <l>Combat to all, and bore away the Dame;</l>
                               <l>And taught the woods to eccho to the streame</l>
@@ -485,7 +502,8 @@
                               <l>Repents his courage, then his feare before;</l>
                               <l>Finds that uncertaine waies unsafest are,</l>
                               <l>And Doubt a greater mischief then Despaire.</l>
-                              <pb xml:id="C4v" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:11"/>
+                              <pb xml:id="C4v"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:11"/>
                               <l>Then to the streame, when neither friends, nor force,</l>
                               <l>Nor speed, nor Art availe, he shapes his course;</l>
                               <l>Thinks not their rage so desperate t' assay,</l>
@@ -506,7 +524,8 @@
                               <l>And beggs his Fate, and then contented falls.</l>
                               <l>So when the King a mortall shaft lets fly</l>
                               <l>From his unerring hand, then glad to dy,</l>
-                              <pb xml:id="D1r" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:11"/>
+                              <pb xml:id="D1r"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:11"/>
                               <l>Proud of the wound, to it resigns his blood,</l>
                               <l>And staines the Christall with a Purple flood.</l>
                               <l>This a more Innocent, and happy chase,</l>
@@ -533,7 +552,8 @@
                               <l>Th'advantage only took more to crave:</l>
                               <l>Till Kings by giving, give themselves away,</l>
                               <l>And even that power, that should deny, betray.</l>
-                              <pb xml:id="D1v" facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:12"/>
+                              <pb xml:id="D1v"
+                                    facs="http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_id=xri:eebo:image:46676:12"/>
                               <l>"Who gives constraiu'd,but his owne feare reviles,</l>
                               <l>"Not thank't, but scorn'd; nor are they gifts, but spoyles.</l>
                               <l>Thus Kings, by grasping more then they could, hold,</l>
