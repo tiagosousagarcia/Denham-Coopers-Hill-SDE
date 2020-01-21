@@ -308,7 +308,12 @@
     <!-- Prints the colophon in colophon mode and adds update information, formatting it as text-->
     <xsl:template match="//back/div[@type='colophon']" mode="colophon">
         <span class="colophon"><xsl:apply-templates/><br/><br/>Laste update: <xsl:value-of select="format-date(current-date(), 
-            '[FNn], the [D1o] of [MNn], [Y]')"/></span>
+            '[FNn], [D1o] [MNn] [Y]')"/></span>
+    </xsl:template>
+    
+    <!-- Copies the 'Finis' into an h3 -->
+    <xsl:template match="//div[@type='end']">
+        <h3><xsl:apply-templates/></h3>
     </xsl:template>
 
 </xsl:stylesheet>
