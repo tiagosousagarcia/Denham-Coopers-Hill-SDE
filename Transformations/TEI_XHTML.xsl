@@ -230,6 +230,10 @@
         <a href="{$link}"><xsl:apply-templates/></a>
     </xsl:template>
     
+    <xsl:template match="//pb">
+        <span class="pageBreak"><xsl:value-of select="/pb/@xml:id"/><xsl:apply-templates/></span>
+    </xsl:template>
+    
 
 
 
