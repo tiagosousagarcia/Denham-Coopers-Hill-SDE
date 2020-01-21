@@ -51,6 +51,7 @@
                 .content {
                     max-width: 600px;
                     margin: auto;
+                    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
                 }
                 
                 <!-- Centers titles, headers, and other paratextual information from the original edition -->
@@ -59,7 +60,14 @@
                 h3,
                 p.imprint {
                     text-align: center;
+                    font-variant: historical-ligatures oldstyle-nums;
                 }
+                
+                <!-- Sets relative font sizes for title page elements -->
+                h1 {font-size:3.5em;}
+                h2 {font-size:2.5em;}
+                h3 {font-size:1.5em;}
+                p.imprint {font-size:1.1em;}
                 
                 <!-- Defines line spacing for every paragraph -->
                 p,
