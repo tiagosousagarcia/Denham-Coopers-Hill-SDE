@@ -230,7 +230,7 @@
 
     <xsl:template match="//ref">
         <xsl:variable name="link">
-            <xsl:value-of select="//ref/@target"/>
+            <xsl:value-of select="@target"/>
         </xsl:variable>
         <a href="{$link}">
             <xsl:apply-templates/>
