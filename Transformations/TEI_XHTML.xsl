@@ -190,7 +190,7 @@
 
     <xsl:template match="//note[@type = 'gloss']">
         <xsl:variable name="num">
-            <xsl:number count="note" from="body" level="any"/>
+            <xsl:number count="note[@type='gloss']" from="body" level="any"/>
         </xsl:variable>
         <a href="{concat('#note', $num)}">
             <sup>
@@ -201,7 +201,7 @@
 
     <xsl:template match="//note[@type = 'gloss']" mode="footnotes">
         <xsl:variable name="num">
-            <xsl:number count="note" from="body" level="any"/>
+            <xsl:number count="note[@type='gloss']" from="body" level="any"/>
         </xsl:variable>
         <li id="{concat('note', $num)}" onclick="javascript:history.back()">
             <xsl:apply-templates/>
