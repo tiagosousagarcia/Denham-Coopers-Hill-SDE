@@ -5,7 +5,7 @@
     xpath-default-namespace="http://www.tei-c.org/ns/1.0">
 
     <xsl:output method="xhtml"/>
-<!-- Main Template -->
+    <!-- Main Template -->
     <xsl:template match="/">
         <html>
             <!-- CSS included inline so that the edition can be reduced to one file (and thus avoid hosting elsewhere) -->
@@ -15,61 +15,55 @@
                     margin-left: 3em;
                     font-size: 0.8em;
                     font-style: italic;
-                }
-                
-                <!-- Styles dropCaps in the original edition -->
-                span.dropCap{
-                margin-left: -0.5em;
-                font-size: 5em;
-                font-weight: bold;
-                vertical-align: -webkit-baseline-middle;}
-                
-                <!-- Styles any undefined hilights in italic -->
-                span.italic { font-style: italic;}
-                
-                <!-- Styles information about page breaks -->
+                }<!-- Styles dropCaps in the original edition -->
+                span.dropCap {
+                    margin-left: -0.5em;
+                    font-size: 5em;
+                    font-weight: bold;
+                    vertical-align: -webkit-baseline-middle;
+                }<!-- Styles any undefined hilights in italic -->
+                span.italic {
+                    font-style: italic;
+                }<!-- Styles information about page breaks -->
                 span.pageBreak {
-                font-size: 0.8em;
-                color: grey;
-                float:right;}
-                
-                <!-- Styles the colophon of the digital edition -->
+                    font-size: 0.8em;
+                    color: grey;
+                    float: right;
+                }<!-- Styles the colophon of the digital edition -->
                 span.colophon {
-                font-size: 0.8em;
-                color: SlateGrey;
-                line-height: 1.5em;
-                }
-                
-                <!-- Styles the back buttons in the footnotes -->
-                p.back{
-                font-size: 0.8em;
-                text-align: right;
-                line-height: 0.5em;
-                }
-                
-                <!-- Styles main content, to allow for centred text in large displays -->
+                    font-size: 0.8em;
+                    color: SlateGrey;
+                    line-height: 1.5em;
+                }<!-- Styles the back buttons in the footnotes -->
+                p.back {
+                    font-size: 0.8em;
+                    text-align: right;
+                    line-height: 0.5em;
+                }<!-- Styles main content, to allow for centred text in large displays -->
                 .content {
                     max-width: 600px;
                     margin: auto;
                     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-                }
-                
-                <!-- Centers titles, headers, and other paratextual information from the original edition -->
+                }<!-- Centers titles, headers, and other paratextual information from the original edition -->
                 h1,
                 h2,
                 h3,
                 p.imprint {
                     text-align: center;
                     font-variant: historical-ligatures oldstyle-nums;
+                }<!-- Sets relative font sizes for title page elements -->
+                h1 {
+                    font-size: 3.5em;
                 }
-                
-                <!-- Sets relative font sizes for title page elements -->
-                h1 {font-size:3.5em;}
-                h2 {font-size:2.5em;}
-                h3 {font-size:1.5em;}
-                p.imprint {font-size:1.1em;}
-                
-                <!-- Defines line spacing for every paragraph -->
+                h2 {
+                    font-size: 2.5em;
+                }
+                h3 {
+                    font-size: 1.5em;
+                }
+                p.imprint {
+                    font-size: 1.1em;
+                }<!-- Defines line spacing for every paragraph -->
                 p,
                {
                     line-height: 2em;
@@ -80,28 +74,21 @@
                     font-size: 0.8em;
                     color: grey;
                     margin-right: -0.5em;
-                }
-                
-                <!-- Styles and positions line numbers for lines more than 10 and less than 100 (i.e., with two digits) -->
+                }<!-- Styles and positions line numbers for lines more than 10 and less than 100 (i.e., with two digits) -->
                 span.lineNumber10 {
-                font-size: 0.8em;
-                color: grey;
-                margin-right: -1em;
-                }
-                
-                <!-- Styles and positions line numbers for lines more than 100 (i.e., with three digits) -->
+                    font-size: 0.8em;
+                    color: grey;
+                    margin-right: -1em;
+                }<!-- Styles and positions line numbers for lines more than 100 (i.e., with three digits) -->
                 span.lineNumber100 {
-                font-size: 0.8em;
-                color: grey;
-                margin-right: -1.5em;
-                }
-                
-                <!-- Styles and positions regular verse lines -->
+                    font-size: 0.8em;
+                    color: grey;
+                    margin-right: -1.5em;
+                }<!-- Styles and positions regular verse lines -->
                 span.verseLine {
                     padding-left: 3em;
                     line-height: 2em;
-                }
-            </style>
+                }</style>
             <head>
                 <!-- Adds metadata to page from teiHeader (head mode) -->
                 <xsl:apply-templates select="//titleStmt/title" mode="head"/>
@@ -118,15 +105,15 @@
                     <br/>
                     <hr/>
                     <!-- Colophon goes here (in colophon mode) -->
-                    <xsl:apply-templates select="//back/div[@type='colophon']" mode="colophon"/>
+                    <xsl:apply-templates select="//back/div[@type = 'colophon']" mode="colophon"/>
                 </div>
             </body>
         </html>
     </xsl:template>
 
     <!-- Other Templates -->
-    
-    
+
+
     <!-- Ignores teiHeader and back in default mode -->
     <xsl:template match="teiHeader | back"/>
 
@@ -238,7 +225,7 @@
         <xsl:apply-templates/>
         <br/>
     </xsl:template>
-    
+
     <!-- Creates spans for side notes in the original poem -->
     <xsl:template match="//note[@type = 'side-note']">
         <span class="sideNote">
@@ -251,7 +238,7 @@
         <xsl:variable name="num">
             <xsl:number count="note[@type = 'gloss']" from="body" level="any"/>
         </xsl:variable>
-        <a href="{concat('#note', $num)}">
+        <a href="{concat('#note', $num)}" alt="{concat('Link to note ', $num)}">
             <sup>
                 <xsl:value-of select="$num"/>
             </sup>
@@ -291,7 +278,29 @@
         <xsl:variable name="link">
             <xsl:value-of select="@target"/>
         </xsl:variable>
-        <a href="{$link}">
+        <!--
+        This would select an appropriate alt text for the link, depending on he parent
+        However, accessibility norms say you don't need alt text if the link is already text 
+        Commented out, kept here only for reference.
+        
+        <xsl:variable name="parent">
+            <xsl:value-of select="name(..)"/>
+        </xsl:variable>
+        <xsl:variable name="altText">
+            <xsl:choose>
+                <xsl:when test="$parent = 'note'">
+                    <xsl:text>This links to additional information about this note</xsl:text>
+                </xsl:when>
+                <xsl:when test="$parent = 'p'">
+                    <xsl:text>This links to addional information.</xsl:text>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:text>null</xsl:text>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        -->
+        <a href="{$link}"> <!--alt="{$altText}"-->
             <xsl:apply-templates/>
         </a>
     </xsl:template>
@@ -301,19 +310,26 @@
         <xsl:variable name="link">
             <xsl:value-of select="@facs"/>
         </xsl:variable>
-        <span class="pageBreak"><a href="{$link}">[<xsl:value-of select="@xml:id"/><xsl:apply-templates/>]</a></span>
+        <span class="pageBreak">
+            <a href="{$link}">[<xsl:value-of select="@xml:id"/><xsl:apply-templates/>]</a>
+        </span>
         <br/>
     </xsl:template>
-    
+
     <!-- Prints the colophon in colophon mode and adds update information, formatting it as text-->
-    <xsl:template match="//back/div[@type='colophon']" mode="colophon">
-        <span class="colophon"><xsl:apply-templates/><br/><br/>Laste update: <xsl:value-of select="format-date(current-date(), 
-            '[FNn], [D1o] [MNn] [Y]')"/></span>
+    <xsl:template match="//back/div[@type = 'colophon']" mode="colophon">
+        <span class="colophon"><xsl:apply-templates/><br/><br/>Laste update: <xsl:value-of
+                select="
+                    format-date(current-date(),
+                    '[FNn], [D1o] [MNn] [Y]')"
+            /></span>
     </xsl:template>
-    
+
     <!-- Copies the 'Finis' into an h3 -->
-    <xsl:template match="//div[@type='end']">
-        <h3><xsl:apply-templates/></h3>
+    <xsl:template match="//div[@type = 'end']">
+        <h3>
+            <xsl:apply-templates/>
+        </h3>
     </xsl:template>
 
 </xsl:stylesheet>
