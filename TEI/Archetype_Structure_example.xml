@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Coopers Hill [1642, archetype]</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Some stuff goes here</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <!-- This list is updated with each new copy uploaded, whether or not it has any variants -->
+               <witness xml:id = "WIT1">
+                  Some details about the witness -- this can be more or less structured. Info should be taken automatically from the transcription teiHeader or manually entered via webform
+               </witness>
+               
+               <witness xml:id = "WIT2">
+                  Some details about the witness -- this can be more or less structured. Info should be taken automatically from the transcription teiHeader or manually entered via webform
+               </witness>
+               
+               <witness xml:id = "WIT3">
+                  Some details about the witness -- this can be more or less structured. Info should be taken automatically from the transcription teiHeader or manually entered via webform
+               </witness>
+               
+               <witness xml:id = "WIT4">
+                  Some details about the witness -- this can be more or less structured. Info should be taken automatically from the transcription teiHeader or manually entered via webform
+               </witness>
+               
+               <witness xml:id = "WIT5">
+                  Some details about the witness -- this can be more or less structured. Info should be taken automatically from the transcription teiHeader or manually entered via webform
+               </witness>
+               <!-- As many witnesses as there are copies transcribed -->
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   
+   <!-- This will basically replicate the structure of any transcription -->
+  <text>
+     <front>
+        <div type="title">
+           <head type="title" rend="center"></head> <!-- this will include a similar app/rdg structure if there are any variations in the title or subtitle -->
+           <head type="subtitle" rend="center"></head>
+        </div>
+        <div type="imprint">
+        </div>
+     </front>
+      <body>
+         <!-- this will include a list of any variant line readings, identified via cosine similarity -->
+         <l xml:id = "l001"> <!-- XML ID will be the one from spine index -->
+            <app>
+               <!-- Each time a new variant is identified for xml:id = l001, a new <rdg> is added -->
+               <rdg wit="#WIT1">smth</rdg>
+               <rdg wit="#WIT2">somthing</rdg>
+               <rdg wit="#WIT3">something</rdg>
+               <!-- etc -->
+            </app>
+         </l>
+         
+         <!-- A new line is created for any lines that have variation -->
+         <l xml:id = "l032"> <!-- XML ID will be the one from spine index -->
+            <app>
+               <!-- Each time a new variant is identified for xml:id = l001, a new <rdg> is added -->
+               <rdg wit="#WIT3">else</rdg>
+               <rdg wit="#WIT4">els</rdg>
+               <!-- etc -->
+            </app>
+         </l>
+         
+         <!-- Any lines that have variation should be added automatically -->
+      </body>
+  </text>
+</TEI>
